@@ -1,0 +1,22 @@
+{
+  "name": "crud_carros_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Denobi/crud_carros_node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Denobi/crud_carros_node/issues"
+  },
+  "homepage": "https://github.com/Denobi/crud_carros_node#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
